@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Siemens\\jewelrystoreAPI\\jewelrystoreAPI.csproj": {}
+    "C:\\JwelryStore\\jewelrystoreAPI\\jewelrystoreAPI.csproj": {}
   },
   "projects": {
-    "C:\\Siemens\\jewelrystoreAPI\\jewelrystoreAPI.csproj": {
+    "C:\\JwelryStore\\jewelrystoreAPI\\jewelrystoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Siemens\\jewelrystoreAPI\\jewelrystoreAPI.csproj",
+        "projectUniqueName": "C:\\JwelryStore\\jewelrystoreAPI\\jewelrystoreAPI.csproj",
         "projectName": "jewelrystoreAPI",
-        "projectPath": "C:\\Siemens\\jewelrystoreAPI\\jewelrystoreAPI.csproj",
+        "projectPath": "C:\\JwelryStore\\jewelrystoreAPI\\jewelrystoreAPI.csproj",
         "packagesPath": "C:\\Users\\mrina\\.nuget\\packages\\",
-        "outputPath": "C:\\Siemens\\jewelrystoreAPI\\obj\\",
+        "outputPath": "C:\\JwelryStore\\jewelrystoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,10 +42,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "AutoFixture.AutoMoq": {
-              "target": "Package",
-              "version": "[4.17.0, )"
-            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -60,7 +56,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.5, )"
+              "version": "[3.1.15, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
