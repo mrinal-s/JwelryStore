@@ -61,6 +61,8 @@ export class HomeComponent implements OnInit {
             .subscribe(
                 data => {
                     this.IsFilePrint = data;
+                    if (this.IsFilePrint)
+                        alert("Print Succeed")
                 });
     }
 
