@@ -1,0 +1,4 @@
+GoldPrice:3
+GoldWeight:3
+Discount:0
+TotalPrice:8.82
